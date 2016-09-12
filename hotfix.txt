@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 Hotfix branch (Master changes) changes
+=======
+Hotfix branch (Branch changes) changes
+>>>>>>> mBranch
 
 
 
